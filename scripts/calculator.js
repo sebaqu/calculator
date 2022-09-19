@@ -38,4 +38,4 @@ function operate(operator, a, b) {
     }
 }
 
-operate('+', 51, 1);
+operate('*', 51, 5);
